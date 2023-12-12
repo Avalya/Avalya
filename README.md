@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dinara
-- 👀 I’m interested in Python,HTML,CSS and UI/UX Design
+- 👀 I’m interested in Python,HTML,CSS 
 - 🌱 I’m currently learning Django,Python
 - 💞️ I’m looking to collaborate about Python
 - 📫 How to reach me ...
